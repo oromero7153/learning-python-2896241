@@ -22,7 +22,8 @@ print(mytuple)
 print(mydict)
 
 # re-declaring a variable works
-
+myint = 'abc'
+print(myint)
 # to access a member of a sequence type, use []
 
 # use slices to get parts of a sequence
